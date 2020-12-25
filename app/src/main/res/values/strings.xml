@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteBook1.0</string>
+    <string name="title">记事本</string>
+    <string name="edit">添加备忘录</string>
+    <string name="back">取消</string>
+    <string name="bianji">编辑备忘录</string>
+    <string name="back1">保存</string>
+</resources>
