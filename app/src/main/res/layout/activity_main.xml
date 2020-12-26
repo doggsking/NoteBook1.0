@@ -11,7 +11,7 @@
         android:paddingTop="10dp"
         android:paddingBottom="5dp"
         android:textStyle="bold"
-        android:background="@color/colorGrey"
+        android:background="@color/colorWhite"
         android:gravity="center"/>
 
     <LinearLayout
@@ -32,7 +32,7 @@
         android:id="@+id/btn_editnote"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorGrey"
+        android:background="@color/colorWhite"
         android:layout_gravity="center"
         android:layout_marginBottom="10dp"
         android:text="@string/edit"
